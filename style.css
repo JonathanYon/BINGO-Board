@@ -15,7 +15,7 @@ h1 {
     font-weight: bold;
 }
 
-/* DAYS */
+/* Bingo */
 
 #board {
     border-style: solid;
@@ -42,8 +42,7 @@ h1 {
     margin: 3px;
 }
 #board-info {
-    display: flex;
-    align-content: center;
+    margin-left: auto;
 }
 #play {
     margin-left: 10px;
