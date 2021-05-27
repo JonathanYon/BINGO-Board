@@ -12,3 +12,14 @@ const displayNum = function(){
         
     }
 }
+
+const startPlay = function(){
+    let clickPlay = document.getElementsByTagName("button")
+    
+    
+        let randomNumGenerator = Math.floor(Math.random() * 77) + 1
+        console.log(randomNumGenerator)
+        // console.log(typeof(clickPlay)) 
+}
+
+
