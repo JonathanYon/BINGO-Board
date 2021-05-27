@@ -1,4 +1,6 @@
-
+window.onload = function(){
+    displayNum()
+}
 
 const displayNum = function(){
     let boards = document.getElementById("board")
