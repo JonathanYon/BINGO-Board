@@ -20,7 +20,7 @@ h1 {
 #board {
     border-style: solid;
     display: inline-block;
-    width: 60%;
+    width: 100%;
     border-color: #292929;
     border-width: 3px;
     padding: 12px;
@@ -53,4 +53,8 @@ h1 {
     font-weight: bolder;
     border-radius: 8px;
     
+}
+.num.chosen {
+    border-color: #888;
+    background-color: #444;
 }

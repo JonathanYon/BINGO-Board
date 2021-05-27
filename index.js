@@ -19,7 +19,11 @@ const startPlay = function(){
     
         let randomNumGenerator = Math.floor(Math.random() * 77) + 1
         console.log(randomNumGenerator)
-        // console.log(typeof(clickPlay)) 
+        // console.log(typeof(clickPlay))
+        let chosenNum = document.querySelectorAll(".num")
+        
+            chosenNum[randomNumGenerator].classList.add("chosen")
+         
 }
 
 
