@@ -1,3 +1,8 @@
+/*
+    1. create a button for the number of board the user want
+    
+*/
+
 window.onload = function(){
     displayNum()
 }

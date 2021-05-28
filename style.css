@@ -58,3 +58,18 @@ h1 {
     border-color: #888;
     background-color: #444;
 }
+#number-board {
+    margin-left: 10px;
+    height: 25px;
+    font-weight: bolder;
+    border-radius: 8px; 
+}
+#create-board {
+    margin-left: 10px;
+    width: 92px;
+    height: 54px;
+    color: rgb(32, 32, 32);
+    background-color: #00db71;
+    font-weight: bolder;
+    border-radius: 8px; 
+}
